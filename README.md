@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goofycode83
 - 👀 I’m interested in becoming a full-stack developer
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m currently learning in-depth concepts
 - 💞️ I’m looking to collaborate on fun real-world projects
 - 📫 How to reach me you can email me at kaleab83@gmail.com
 
