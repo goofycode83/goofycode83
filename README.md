@@ -1,3 +1,7 @@
+# GoofyCode83
+
+**` Software Engineer (React/UI/UX)`**
+
 - 👋 Hi, I’m @goofycode83
 - 👀 I’m interested in becoming a React developer 
 - 🌱 I’m currently learning in-depth concepts
