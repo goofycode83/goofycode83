@@ -34,11 +34,15 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=goofycode83&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <br>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=goofycode83&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
-
+<div>
+  <br>
+<details>
+<div>
+  <summary><h3>👨‍💻 A Little About Me</h3></summary>
+  I'm a Front-End Engineer from JPMorgan with over three years of experience specializing in JavaScript and React development. I thrive on building dynamic, responsive web applications that deliver intuitive user interfaces and seamless user experiences. 
+</div>
 <!---
 goofycode83/goofycode83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
