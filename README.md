@@ -33,7 +33,7 @@
 </div>
 <div>
   <br>
-<details>
+<!-- <details> -->
 <div>
   <summary><h3>👨‍💻 A Little About Me</h3></summary>
   I'm a Front-End Engineer with over three years of experience specializing in JavaScript and React development. I thrive on building dynamic, responsive web applications that deliver intuitive user interfaces and seamless user experiences. 
