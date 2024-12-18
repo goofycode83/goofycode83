@@ -25,12 +25,6 @@
 <br/><br/>
 </div>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-</div>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -41,7 +35,7 @@
 <details>
 <div>
   <summary><h3>👨‍💻 A Little About Me</h3></summary>
-  I'm a Front-End Engineer from JPMorgan with over three years of experience specializing in JavaScript and React development. I thrive on building dynamic, responsive web applications that deliver intuitive user interfaces and seamless user experiences. 
+  I'm a Front-End Engineer with over three years of experience specializing in JavaScript and React development. I thrive on building dynamic, responsive web applications that deliver intuitive user interfaces and seamless user experiences. 
 </div>
 <!---
 goofycode83/goofycode83 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
